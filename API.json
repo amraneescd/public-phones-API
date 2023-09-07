@@ -46,5 +46,97 @@
         "name:": "Samsung Galaxy M34 5G",
         "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m34-5g-4.jpg",
         "price": "₹19,999"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy F54",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-f54-5g-1.jpg",
+        "price": "₹31,390"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy A24 4G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a24-4g-5.jpg",
+        "price": "$174.97"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy S23 Ultra",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
+        "price": "$848.00"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy S23+",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-plus-5g-1.jpg",
+        "price": "$749.00"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy S23",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-5g-1.jpg",
+        "price": "$605.00"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy Z Fold4",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-fold4-5g-4.jpg",
+        "price": "$1,199.99"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy Z Flip4",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip4-5g-02.jpg",
+        "price": "$597.00"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy S20 FE 2022",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s20-fe-5g-1.jpg",
+        "price": "520 EUR"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy S22 Ultra 5G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-ultra-5g-3.jpg",
+        "price": "$594.30"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy S22+ 5G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-plus-5g-2.jpg",
+        "price": "$459.98"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy S22 5G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s22-5g-2.jpg",
+        "price": "$397.60"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy Z Fold3 5G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-z-fold-3-1.jpg",
+        "price": "$1,799.99"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy Z Flip3 5G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-z-flip3-1.jpg",
+        "price": "$329.00"
     }
+
 ]
