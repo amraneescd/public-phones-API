@@ -1,0 +1,50 @@
+[
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy F34",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-f34-1.jpg",
+        "price": "210 EUR"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy Z Fold5",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-fold5-5g-r2.jpg",
+        "price": "$1,499.99"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy Z Flip5",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-z-flip5-5g-r2.jpg",
+        "price": "$799.00"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy Watch6 Classic",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-watch6-classic-1.jpg",
+        "price": "$363.00"
+    },
+    
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy Watch6",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-watch6-01.jpg",
+        "price": "€319.00"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy M34 5G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m34-5g-4.jpg",
+        "price": "₹19,999"
+    },
+
+    {
+        "category": "Samsung",
+        "name:": "Samsung Galaxy M34 5G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m34-5g-4.jpg",
+        "price": "₹19,999"
+    }
+]
