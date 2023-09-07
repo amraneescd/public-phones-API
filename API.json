@@ -137,6 +137,208 @@
         "name:": "Samsung Galaxy Z Flip3 5G",
         "img": "https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-z-flip3-1.jpg",
         "price": "$329.00"
-    }
+    },
 
+    {
+        "category": "Apple",
+        "name:": "Apple iPad Pro 12.9 (2022)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-pro-129-2022-1.jpg",
+        "price": "1450 EUR"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPad (2022)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-10-2022-0.jpg",
+        "price": "580 EUR"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 14 Pro Max",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg",
+        "price": "$1,258.60"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 14 Pro",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-3.jpg",
+        "price": "$1,129.00"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 14 Plus",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-plus-3.jpg",
+        "price": "$979.00"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 14",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-3.jpg",
+        "price": "$750.00"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple Watch Series 8 Aluminum",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-watch-8-aluminum-1.jpg",
+        "price": "€432.96"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone SE (2022)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-se-2022-0.jpg",
+        "price": "$189.00"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPad Air (2022)",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-ipad-air-2022-1.jpg",
+        "price": "550 EUR"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 13 Pro Max",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-max-01.jpg",
+        "price": "$897.62"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 13 Pro",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-13-pro-01.jpg",
+        "price": "$812.50"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 12 Pro Max",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-max-1.jpg",
+        "price": "$616.52"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 12 Pro",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-pro-r1.jpg",
+        "price": "$567.86"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 12",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-12-r1.jpg",
+        "price": "$469.99"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 11 Pro Max",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-pro-10.jpg",
+        "price": "$420.00"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 11 Pro",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-pro-10.jpg",
+        "price": "$446.66"
+    },
+
+    {
+        "category": "Apple",
+        "name:": "Apple iPhone 11",
+        "img": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-11-1.jpg",
+        "price": "$333.96"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi K60 Ultra",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k60-ultra-1.jpg",
+        "price": "330 EUR"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Mix Fold 3",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-mix-fold3-3.jpg",
+        "price": "1150 EUR"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Poco M6 Pro",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-poco-m6-pro-1.jpg",
+        "price": "₹11,299"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi Watch 3 Active",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/redmi-watch-3-active-1.jpg",
+        "price": "50 EUR"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi 12 5G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-12-5g-1.jpg",
+        "price": "120 EUR"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi Note 12R",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-12r-1.jpg",
+        "price": "150 EUR"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi 12",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-12-1.jpg",
+        "price": "$143.70"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi Note 12S",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-12s-11.jpg",
+        "price": "$190.00"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi Note 12 Pro 4G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-12-pro-4g-1.jpg",
+        "price": "$225.00"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi A2+",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-a2-plus-1.jpg",
+        "price": "€95.99"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi A2",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-a2-1.jpg",
+        "price": "$73.87"
+    },
+
+    {
+        "category": "Xiaomi",
+        "name:": "Xiaomi Redmi Note 12 4G",
+        "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/redmi-note-12-4g-1.jpg",
+        "price": "$156.00 "
+    }
 ]
